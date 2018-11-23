@@ -20,8 +20,7 @@ $('#gotop').click(function () {
 getData();
 var dataList;
 function getData() {
-	//var url = "http://localhost:8080/api/list.json";
-	var url = "https://anderson-an.github.io/meituan/api/list.json";
+	var url = "http://localhost:8080/api/list.json";
 		$.ajax({
 			type: "GET",
 			dataType: "json",
@@ -36,7 +35,7 @@ function addList(data) {
 	var str = '';
 	data.list.forEach(function (ele, index) {
 		str += '<li class="foodspic">\
-				<a href = "https://anderson-an.github.io/meituan/meituan-detail.html?id='+ ele.id + '" class="clearfix" >\
+				<a href = "http://localhost:8080/meituan-detail.html?id='+ ele.id + '" class="clearfix" >\
 					<img src="'+ ele.info.imgurl + '" alt=""><dl><dt>' + ele.info.name + '</dt>\
 							<dd><p class="foodtitle">'+ ele.info.des + '</p>\
 								<p class="price"><span><strong>'+ ele.info.price + '</strong>\
