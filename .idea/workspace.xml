@@ -71,19 +71,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="meituan.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="meituan.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/js/meituan.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.28647214">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
               <folding>
-                <marker date="1539668571399" expanded="true" signature="784:1212" placeholder="..." />
-                <marker date="1539668571399" expanded="true" signature="878:1212" placeholder="..." />
-                <marker date="1539668571399" expanded="true" signature="931:1208" placeholder="..." />
-                <marker date="1539668571399" expanded="true" signature="974:1203" placeholder="..." />
-                <marker date="1539668571399" expanded="true" signature="1045:1198" placeholder="..." />
-                <marker date="1539668571399" expanded="true" signature="1051:1114" placeholder="..." />
+                <marker date="1542974521647" expanded="true" signature="852:1296" placeholder="..." />
+                <marker date="1542974521647" expanded="true" signature="962:1296" placeholder="..." />
+                <marker date="1542974521647" expanded="true" signature="1015:1292" placeholder="..." />
+                <marker date="1542974521647" expanded="true" signature="1058:1287" placeholder="..." />
+                <marker date="1542974521647" expanded="true" signature="1129:1282" placeholder="..." />
+                <marker date="1542974521647" expanded="true" signature="1135:1198" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="meituan-detail.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meituan-detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.1764705">
+              <caret line="122" column="20" selection-start-line="122" selection-start-column="20" selection-end-line="122" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -98,36 +108,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="iconfont.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="iconfont.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/webfont/iconfont.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="goodsInfo.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/goodsInfo.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-              <folding>
-                <marker date="1542967724457" expanded="true" signature="1528:1960" placeholder="..." />
-                <marker date="1542967724457" expanded="true" signature="1560:1744" placeholder="..." />
-                <marker date="1542967724457" expanded="true" signature="1632:1680" placeholder="..." />
-                <marker date="1542967724457" expanded="true" signature="1784:1892" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/list.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-185.82353">
-              <caret line="234" column="4" selection-start-line="234" selection-start-column="4" selection-end-line="234" selection-end-column="4" />
+            <state vertical-scroll-proportion="-1.5882353">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -141,6 +136,8 @@
         <option value="$PROJECT_DIR$/src/js/goodsInfo.js" />
         <option value="$PROJECT_DIR$/api/list.json" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/js/meituan.js" />
+        <option value="$PROJECT_DIR$/meituan-detail.html" />
       </list>
     </option>
   </component>
@@ -152,7 +149,7 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="60" />
+    <option name="x" value="177" />
     <option name="y" value="45" />
     <option name="width" value="1247" />
     <option name="height" value="567" />
@@ -397,7 +394,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="60" y="45" width="1247" height="567" extended-state="0" />
+    <frame x="177" y="45" width="1247" height="567" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24979322" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -480,10 +477,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/meituan.css">
+    <entry file="file://$PROJECT_DIR$/src/webfont/iconfont.woff">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="57.97059">
-          <caret line="107" column="28" selection-start-line="107" selection-start-column="28" selection-end-line="107" selection-end-column="28" />
+        <state vertical-scroll-proportion="-7.2">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webfont/iconfont.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5882353">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -496,33 +509,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/meituanIndex.css">
+    <entry file="file://$PROJECT_DIR$/src/css/meituan.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.5882353">
-          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+        <state vertical-scroll-proportion="57.97059">
+          <caret line="107" column="28" selection-start-line="107" selection-start-column="28" selection-end-line="107" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/meituan.js">
+    <entry file="file://$PROJECT_DIR$/src/css/meituanIndex.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-          <folding>
-            <marker date="1539668571399" expanded="true" signature="784:1212" placeholder="..." />
-            <marker date="1539668571399" expanded="true" signature="878:1212" placeholder="..." />
-            <marker date="1539668571399" expanded="true" signature="931:1208" placeholder="..." />
-            <marker date="1539668571399" expanded="true" signature="974:1203" placeholder="..." />
-            <marker date="1539668571399" expanded="true" signature="1045:1198" placeholder="..." />
-            <marker date="1539668571399" expanded="true" signature="1051:1114" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/webfont/iconfont.woff">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.2">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-1.5882353">
+          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -535,11 +533,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/webfont/iconfont.css">
+    <entry file="file://$PROJECT_DIR$/meituan-detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-2.1764705">
+          <caret line="122" column="20" selection-start-line="122" selection-start-column="20" selection-end-line="122" selection-end-column="20" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/meituan.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28647214">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding>
+            <marker date="1542974521647" expanded="true" signature="852:1296" placeholder="..." />
+            <marker date="1542974521647" expanded="true" signature="962:1296" placeholder="..." />
+            <marker date="1542974521647" expanded="true" signature="1015:1292" placeholder="..." />
+            <marker date="1542974521647" expanded="true" signature="1058:1287" placeholder="..." />
+            <marker date="1542974521647" expanded="true" signature="1129:1282" placeholder="..." />
+            <marker date="1542974521647" expanded="true" signature="1135:1198" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
